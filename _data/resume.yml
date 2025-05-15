@@ -1,0 +1,84 @@
+name: 游荣强
+title: CTO/CIO
+age: 43
+contact:
+  phone: 17715266546
+  email: gllier@163.com
+  location: 南京
+experience_years: 21
+
+summary:
+  - 从0到1团队建设，系统架构设计，研发流程管理，一体化对接，项目实施推进
+  - PMP、PgMP、CSPM-4、ESG高级工程师、项目管理认证
+  - 中国标准化协会项目管理专业委员会委员
+  - 熟悉GJB9001C、GJB5000B、CMMI等各类标准体系
+  - 精通CPU硬件架构设计原理、指令流水线等，实时系统底层和高层具备扎实功底，在核心开发中
+  - 精通汇编和C/C++语言，熟练使用各类编程语言(C#、Go、VBA、Python、Java/JS、PHP等)
+  - 精通各类嵌入式RTOS原理及应用开发，系统架构设计，如uC/OS、FreeRTOS、RT-Thread、VxWorks、Linux等
+  - 熟悉各类数据库应用，SQL、MongoDB、SQLite、Redis等
+  - 熟悉各类系列MCU/DSP硬件架构，CortexM、MIPS、PPC、Cortex-A、RISCV、ZYNQ等
+
+
+skills:
+  english: CET4，读写良好
+
+work_experience:
+  - company: 南京某航天所配套公司
+    position: 研发总监
+    period: 2025.02-至今
+    responsibilities:
+      - 团队建设：从0开始组建平台、终端、终端硬件研发团队，优化项目管理体系，规范团队开发流程
+      - 产研交付：单机产品研发，包括各类传感器、控制器、执行器等，现场交付实施管理
+     
+
+  - company: 南京某新能源科技有限公司
+    position: 研发总监
+    period: 2022.09-2025.02
+    responsibilities:
+      - 团队建设：从0开始组建约30人的平台、终端、终端硬件研发团队，优化项目管理体系，规范团队开发流程
+      - 终端系统架构：负责产品规划，EMS能源管理终端，以及各类表计智慧能源单元，相关单元硬件系统架构设计，技术攻关
+      - 平台系统架构：负责综合能源、综合管理、双碳平台、管理平台，以及各类微服务架构的电力应用架构，对接终端的平台一体化经济分析体系架构，包括经济分析应用、调度分析应用、用电分析应用(储能等各类行业解决方案)
+      - 负责各类设备/能源终端的服务端系统，为各类能源开发提供完备服务
+      - 负责产品管理及各类系统，确保终端产品稳定性，MES系统，优化各类终端现场安装调试流程，技术攻关相关节点
+      - 提交多项发明专利(已授权)
+
+  - company: 南京某打印技术有限公司
+    position: 技术总监
+    period: 2021.08-2022.08
+    responsibilities:
+      - 负责打印设备研发技术总监。在任职期间，负责打印设备研发，包括新一代硬件系统，Cortex-A7主控芯片，Cortex-M4时钟控制芯片，以及EPGA实现的图像数据传输部分组成。负责编写Bootloager和基础RT-Thread应用程序，以及各类芯片驱动，包括Linux平台下的定位打印系统，实现打印纸张时，图像处理，系统控制等功能。同时负责芯片驱动和FPGA通信接口，通过IO接口级联FPGA从而节省硬件，提高系统效率，降低维护成本
+      - 在任提交打印相关专利一项
+
+  - company: 南京某通信科技有限公司
+    position: 技术总监
+    period: 2019.12-2021.08
+    responsibilities:
+      - 负责DTU/FTU项目，FreeRTOS/Linux应用系统设计，产品系统架构设计，硬件选型等，103/104协议XCP/OCPP协议应用设计。在任职期间，负责实现DTU模块化平台，包括PCLinux
+
+  - company: 南京某通信股份有限公司
+    position: 项目经理/总监
+    period: 2018.08-2019.12
+    responsibilities:
+      - 负责15人团队派驻OPPO，智能手表底层系统，BTIBLT底层模块开发，使用C语言，RT-Thread操作系统，多级bootloader开发，硬件驱动开发，BTBLE应用开发
+      - 负责团队为某平头哥RISC-V架构芯片做FFTDFT等数学算法优化，使用RISC-V汇编语言
+      - 负责团队为FFMPEG在RISC-V芯片的汇编级优化移植
+
+education:
+  - school: 复旦大学
+    degree: 硕士
+    major: 项目管理
+    period: 2025-2027
+
+  - school: 南京航空航天大学
+    degree: 本科
+    major: 自动化
+    period: 2000-2004
+
+certifications:
+  - PMP项目管理认证
+  - PgMP项目集管理认证
+  - 数据分析师高级工程师证书
+  - CET4
+  - ESG高级分析师
+  - CSPM-4中国标准项目管理认证（最高级）  
+  - 中国标准化协会项目管理专业专家库成员
