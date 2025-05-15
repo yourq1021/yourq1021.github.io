@@ -1,19 +1,19 @@
 # main links links
 main:
   - title: "关于我"
-    url: "https://gllier.github.io/yourongqiang.github.io/#about-me"
+    url: "/#about-me"
 
   - title: "学历"
-    url: "https://gllier.github.io/yourongqiang.github.io/#education"
+    url: "/#education"
 
   - title: "工作"
-    url: "https://gllier.github.io/yourongqiang.github.io/#job"
+    url: "/#job"
 
   - title: "技能"
-    url: "https://gllier.github.io/yourongqiang.github.io/#skills"
+    url: "/#skills"
 
   - title: "认证"
-    url: "https://gllier.github.io/yourongqiang.github.io/#certification"
+    url: "/#certification"
 
   - title: "联系"
-    url: "https://gllier.github.io/yourongqiang.github.io/#contact"
+    url: "/#contact"
