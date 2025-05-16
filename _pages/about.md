@@ -124,7 +124,7 @@ redirect_from:
 - *2007.08 - 2009.04*, **CDMA手机中的Phonebook**
   - 负责Motorola系列CDMA手机中的phonebook settings模块开发和维护
 
-- *2004.07 - 2007.08*, **第一科技嵌入式系统工程师/项目经理**
+- *2004.07 - 2007.08*, **嵌入式系统工程师/项目经理**
   - 负责AD BlackfinDSP平台硬件设计、系统架构
   - 负责Philips LPC ARM平台硬件设计、驱动、系统架构
   - 负责通信终端、uC/OS系统平台开发
