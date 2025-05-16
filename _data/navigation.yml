@@ -12,6 +12,12 @@ main:
   - title: "技能"
     url: "/#skills"
 
+  - title: "项目"
+    url: "/#projects"
+
+  - title: "学术"
+    url: "/#academic"
+
   - title: "认证"
     url: "/#certification"
 
