@@ -140,10 +140,12 @@ redirect_from:
   - 在测试过程中发现多个严重问题，提高了产品的可靠性
 
 <span class='anchor' id='academic'></span>
-# 📖 学术
+# 📖 学术&课程
 
 - [论文：探讨电气的自动化在电气工程中融合应用](http://xueshu.qikan.com.cn/preview/1/85/792350)
 - **专著：《电力物联网：智能感知技术与应用》，副主编**
+- **课程：《现代交换技术》**
+- **课程：《Java程序设计》**
 
 <span class='anchor' id='certification'></span>
 # 📌 专业认证
@@ -158,6 +160,6 @@ redirect_from:
 <span class='anchor' id='contact'></span>
 # 📞 联系方式
 
-- **电话**: 17715266546
-- **邮箱**: gllier@163.com
+- **电话**: 17315009517
+- **邮箱**: yourq1021@163.com
 - **所在地**: 南京
