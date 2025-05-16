@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "游荣强"
-description              : "技术总监/CTO<br/>21年技术研发与管理经验<br/>系统架构设计专家<br/>嵌入式系统专家<br/>项目管理专家"
-repository               : "yourongqiang/gllier.github.io"
+description              : "研发总监/CTO<br/>21年技术研发与管理经验<br/>系统架构设计专家<br/>嵌入式系统专家<br/>项目管理专家"
+repository               : "yourq1021/yourq1021.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "游荣强"
   avatar           : "images/header.jpg"
-  bio              : "技术总监/CTO"
+  bio              : "研发总监/CTO"
   location         : "南京，中国"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "gllier@163.com"
+  email            : "yourq1021@163.com"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : https://github.com/yourq1021
   google_plus      :
   keybase          :
   instagram        :

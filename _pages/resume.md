@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 游荣强 - 技术总监/CTO
+title: 游荣强 - 研发总监/CTO
 permalink: /resume/
 ---
 
