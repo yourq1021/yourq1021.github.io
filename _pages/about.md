@@ -141,11 +141,11 @@ redirect_from:
 
 <span class='anchor' id='academic'></span>
 # 📖 学术&课程
-
-- [论文：探讨电气的自动化在电气工程中融合应用](http://xueshu.qikan.com.cn/preview/1/85/792350)
 - **专著：《电力物联网：智能感知技术与应用》，副主编**
 - **课程：《现代交换技术》，某大学讲师**
 - **课程：《Java程序设计》，某大学讲师**
+- **课程：《数据与网络通信》，某大学讲师**
+- [论文：探讨电气的自动化在电气工程中融合应用](http://xueshu.qikan.com.cn/preview/1/85/792350)
 
 <span class='anchor' id='certification'></span>
 # 📌 专业认证
